@@ -1,3 +1,9 @@
-.card-cont.avatar-info {
+.custom-checkbox>span[data-v-47e1b746] {
+    display: inline-flex;
+    align-items: center;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
     background-color: red;
 }
